@@ -1,4 +1,4 @@
-# Week 1: Excel & Data Fundamentals — Practice Assignment & Sales Dashboard
+# Phase 1: Enterprise Data Cleaning, Statistical Modeling & Sales Dashboard
 
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -6,7 +6,7 @@
 ![OpenPyXL](https://img.shields.io/badge/OpenPyXL-239120?style=for-the-badge&logo=python&logoColor=white)
 ![License](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
-Comprehensive completion of **Week 1: Excel & Data Fundamentals** from the Data Analyst Course, covering end-to-end data cleaning, descriptive statistics with native Excel formulas, pivot table summarization, conditional formatting, dynamic charting, and a corporate **Executive Sales Performance Dashboard**.
+Comprehensive implementation of **Phase 1: Enterprise Data Cleaning, Statistical Modeling & Sales Dashboard** from the **Skill Nexis Data Science & Analytics Internship**, covering end-to-end data cleaning, descriptive statistics with native Excel formulas, pivot table summarization, conditional formatting, dynamic charting, and a corporate **Executive Sales Performance Dashboard**.
 
 ---
 
@@ -22,7 +22,7 @@ Comprehensive completion of **Week 1: Excel & Data Fundamentals** from the Data 
 
 ---
 
-## 📝 Part 1: Week 1 Practice Assignment Solutions
+## 📝 Part 1: Phase 1 Enterprise Data Cleaning & Statistical Analysis
 
 ### Question 1: Remove Duplicates & Handle Missing Values in a Dataset
 - **Duplicate Check**: An exhaustive duplicate analysis across primary key (`Row ID`) and compound key combinations (`Order ID` + `Product ID`) confirmed **0 duplicate rows** across all 51,290 records.
